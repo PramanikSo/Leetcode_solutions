@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 # Sorting
 |  |
 | ------- |
@@ -18,3 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sougat1/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+# Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
