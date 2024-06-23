@@ -23,3 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Sougat1/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+# Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sougat1/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
