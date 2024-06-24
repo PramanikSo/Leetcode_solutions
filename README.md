@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
 # Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -28,3 +30,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sougat1/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+# Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
+# String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
