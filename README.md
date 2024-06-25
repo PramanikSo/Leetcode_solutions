@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sougat1/Leetcode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 # Two Pointers
 |  |
 | ------- |
@@ -38,3 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
+# Math
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sougat1/Leetcode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
