@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sougat1/Leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sougat1/Leetcode_solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sougat1/Leetcode_solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 # Two Pointers
@@ -15,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sougat1/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 # Bit Manipulation
 |  |
 | ------- |
