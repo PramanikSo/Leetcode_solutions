@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sougat1/Leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Sougat1/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Simulation
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sougat1/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Prefix Sum
 |  |
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sougat1/Leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
