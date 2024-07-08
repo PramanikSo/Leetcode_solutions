@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
