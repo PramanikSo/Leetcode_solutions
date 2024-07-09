@@ -3,26 +3,17 @@ class Solution {
         int n=triangle.size();
         int dp[][]=new int[n][n];
         for(int i=0;i<n;i++){
-            Arrays.fill(dp[i],Integer.MAX_VALUE);
+            dp[n-1][i]=triangle.get(n-1).get(i);
         }
-        dp[0][0]=triangle.get(0).get(0);
 
-        for(int i=1;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(j<=i){
-                    int up=dp[i-1][j];
-                    int dleft=Integer.MAX_VALUE;
-                    if(j>0){
-                        dleft=dp[i-1][j-1];
-                    }
-                    dp[i][j]=triangle.get(i).get(j)+Math.min(up,dleft);
-                }
+        for(int i=n-2;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                int down=dp[i+1][j];
+                int diagonal=dp[i+1][j+1];
+
+                dp[i][j]=triangle.get(i).get(j)+Math.min(down,diagonal);
             }
         }
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<n;i++){
-            min=Math.min(min,dp[n-1][i]);
-        }
-        return min;
+        return dp[0][0];
     }
 }
