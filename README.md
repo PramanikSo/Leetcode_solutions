@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sougat1/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Sougat1/Leetcode_solutions/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sougat1/Leetcode_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sougat1/Leetcode_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
