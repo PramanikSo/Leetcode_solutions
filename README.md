@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Sougat1/Leetcode_solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sougat1/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sougat1/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
