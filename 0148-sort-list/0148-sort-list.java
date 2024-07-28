@@ -10,62 +10,71 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null){
+        if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode mid=findMid(head);
-        ListNode left=head;
-        ListNode right=mid.next;
-        mid.next=null;
+        // Get the length of the list
+        int length = getLength(head);
 
-        left=sortList(left);
-        right=sortList(right);
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        ListNode newHead=mergeTwoLists(left,right);
-        return newHead;
-    }
+        for (int size = 1; size < length; size *= 2) {
+            ListNode curr = dummy.next;
+            ListNode tail = dummy;
 
-    ListNode findMid(ListNode head){
-        ListNode fast=head;
-        ListNode slow=head;
-        while(fast.next!=null && fast.next.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
-        }
-        return slow;
-    }
+            while (curr != null) {
+                ListNode left = curr;
+                ListNode right = split(left, size);
+                curr = split(right, size);
 
-    ListNode mergeTwoLists(ListNode left,ListNode right){
-        if(left==null){
-            return right;
-        }
-        if(right==null){
-            return left;
-        }
-        ListNode dummy=new ListNode(0);
-        ListNode temp=dummy;
-        while(left!=null && right!=null){
-            if(left.val<=right.val){
-                temp.next=left;
-                left=left.next;
-                temp=temp.next;
-            }else{
-                temp.next=right;
-                right=right.next;
-                temp=temp.next;
+                tail = merge(left, right, tail);
             }
         }
-        while(left!=null){
-             temp.next=left;
-                left=left.next;
-                temp=temp.next;
-        }
-        while(right!=null){
-            temp.next=right;
-                right=right.next;
-                temp=temp.next;
-        }
+
         return dummy.next;
+    }
+
+    private int getLength(ListNode head) {
+        int length = 0;
+        while (head != null) {
+            length++;
+            head = head.next;
+        }
+        return length;
+    }
+    private ListNode split(ListNode head, int size) {
+        ListNode tail = head;
+        while (--size > 0 && tail != null) {
+            tail = tail.next;
+        }
+        if (tail == null) {
+            return null;
+        }
+        ListNode second = tail.next;
+        tail.next = null;
+        return second;
+    }
+
+     private ListNode merge(ListNode left, ListNode right, ListNode tail) {
+        ListNode curr = tail;
+        while (left != null && right != null) {
+            if (left.val < right.val) {
+                curr.next = left;
+                left = left.next;
+            } else {
+                curr.next = right;
+                right = right.next;
+            }
+            curr = curr.next;
+        }
+        curr.next = (left != null) ? left : right;
+
+        // Move to the end of the merged list
+        while (curr.next != null) {
+            curr = curr.next;
+        }
+        return curr;
     }
 }
