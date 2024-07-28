@@ -10,18 +10,39 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        List<Integer>list=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            list.add(temp.val);
-            temp=temp.next;
+        if(head==null || head.next==null){
+            return head;
         }
-        Collections.sort(list);
-        temp=head;
-        int index=0;
-        while(temp!=null){
-            temp.val=list.get(index++);
-            temp=temp.next;
+        ListNode first=head;
+        ListNode curr=head.next;
+        ListNode prev=head;
+        while(curr!=null){
+            if(curr.val<=first.val){
+                if(head.val>curr.val){
+                    ListNode temp=new ListNode(curr.val);
+                    temp.next=head;
+                    head=temp;
+                }else{
+                    ListNode temp=head;
+                    while(temp.val<=curr.val){
+                        if(temp.next.val>=curr.val){
+                            break;
+                        }
+                        temp=temp.next;
+                    }
+                    ListNode t=new ListNode(curr.val);
+                    ListNode nxt=temp.next;
+                    temp.next=t;
+                    t.next=nxt;
+                }
+                prev.next=curr.next;
+                curr=prev.next;
+            }else{
+                first=curr;
+                prev=curr;
+                curr=curr.next;
+            }
+
         }
         return head;
         
