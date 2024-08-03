@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sougat1/Leetcode_solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sougat1/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
