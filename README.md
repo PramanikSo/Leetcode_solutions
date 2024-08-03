@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Sougat1/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sougat1/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sougat1/Leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Linked List
 |  |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
