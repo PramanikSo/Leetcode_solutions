@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sougat1/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -228,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0148-sort-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
