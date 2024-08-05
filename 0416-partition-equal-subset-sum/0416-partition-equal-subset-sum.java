@@ -11,10 +11,6 @@ class Solution {
         return isSubsetSum(nums.length,nums,sum);
     }
       Boolean isSubsetSum(int N, int arr[], int sum){
-        // code here
-        
-        // S(c): O(n*sum)
-    //    boolean dp[][]=new boolean [N][sum+1];
             boolean prev[]=new boolean[sum+1];
             
             prev[0]=true;
