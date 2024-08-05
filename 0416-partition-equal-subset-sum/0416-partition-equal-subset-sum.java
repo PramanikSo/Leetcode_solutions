@@ -8,34 +8,37 @@ class Solution {
             return false;
         }
         sum=sum/2;
-        int dp[][]=new int[nums.length][sum+1];
-        for(int i=0;i<dp.length;i++){
-            Arrays.fill(dp[i],-1);
-        }
-        return helper(nums.length-1,sum,nums,dp);
+        return isSubsetSum(nums.length,nums,sum);
     }
-     boolean helper(int index,int target,int []arr,int dp[][]){
-        if(target==0){
-            return true;
-        }
-        if(index==0){
-            return (arr[index]==target);
-        }
-        if(dp[index][target]!=-1){
-            return (dp[index][target]==1);
-        }
-         boolean nottake=helper(index-1,target,arr,dp);
+      Boolean isSubsetSum(int N, int arr[], int sum){
+        // code here
         
-        boolean take=false;
-        if(target>=arr[index]){
-             take=helper(index-1,target-arr[index],arr,dp);
+        // S(c): O(n*sum)
+    //    boolean dp[][]=new boolean [N][sum+1];
+            boolean prev[]=new boolean[sum+1];
+            
+            prev[0]=true;
+            if (arr[0] <= sum) {
+               prev[arr[0]] = true;
+            }
+        // T(c): O(n*sum)
+        for(int index=1;index<N;index++){
+            boolean curr[]=new boolean[sum+1];
+            curr[0]=true;
+            for(int target=1;target<=sum;target++){
+                 boolean notTake=prev[target];
+                    boolean take = false;
+                    if(target >= arr[index]){
+                        take=prev[target-arr[index]];
+                    }
+                   curr[target]= (take || notTake) ;
+            }
+            prev=curr;
+            
         }
+           
+        return prev[sum];
        
-       
-        
-        dp[index][target] = (take || nottake)? 1:0;
-        
-        return (take || nottake);
         
     }
 }
