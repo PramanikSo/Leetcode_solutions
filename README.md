@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Sougat1/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Sougat1/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Sougat1/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Simulation
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
