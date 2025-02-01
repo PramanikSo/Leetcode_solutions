@@ -7,6 +7,7 @@ class Solution {
             if(map.containsKey(temp)){
                 ans[0]=map.get(temp);
                 ans[1]=i;
+                return ans;
             }else{
                 map.put(nums[i],i);
             }
