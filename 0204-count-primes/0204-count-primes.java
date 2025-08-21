@@ -4,9 +4,9 @@ class Solution {
         for(int i=2;i<n;i++){
             primeList[i]=1;
         }
-        for(int i=2;i<n;i++){
+        for(int i=2;i*i<n;i++){
             if(primeList[i]==1){
-                for(int j=i*2;j<n;j=j+i){
+                for(int j=i*i;j<n;j=j+i){
                     primeList[j]=0;
                 }
             }
