@@ -1,12 +1,12 @@
 class Solution {
     public int countPrimes(int n) {
-        int primeList[]=new int[n+1];
-        for(int i=2;i<=n;i++){
+        int primeList[]=new int[n];
+        for(int i=2;i<n;i++){
             primeList[i]=1;
         }
-        for(int i=2;i<=n;i++){
+        for(int i=2;i<n;i++){
             if(primeList[i]==1){
-                for(int j=i*2;j<=n;j=j+i){
+                for(int j=i*2;j<n;j=j+i){
                     primeList[j]=0;
                 }
             }
