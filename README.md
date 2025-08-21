@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Sougat1/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Sougat1/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -252,4 +254,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
