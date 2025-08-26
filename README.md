@@ -277,5 +277,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Sougat1/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sougat1/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
