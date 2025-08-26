@@ -5,9 +5,7 @@ class Solution {
         int node3=edges[1][0];
         int node4=edges[1][1];
 
-        if(node1==node3){
-            return node1;
-        }else if(node1==node4){
+        if(node1==node3 || node1==node4){
             return node1;
         }else{
             return node2;
