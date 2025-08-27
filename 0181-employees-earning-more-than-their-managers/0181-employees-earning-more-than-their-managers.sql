@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+/* Write your PL/SQL query statement below */
 -- SELECT NAME AS EMPLOYEE FROM EMPLOYEE E WHERE E.SALARY > (SELECT SALARY FROM EMPLOYEE WHERE ID=E.MANAGERID);
 
 -- ALTERNATIVE
