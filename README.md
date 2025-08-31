@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Sougat1/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
 | [1284-four-divisors](https://github.com/Sougat1/Leetcode_solutions/tree/master/1284-four-divisors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sougat1/Leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sougat1/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
