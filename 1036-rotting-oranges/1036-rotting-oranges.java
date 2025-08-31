@@ -6,14 +6,12 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
         Queue<Triplet>q=new LinkedList<>();
-        int [][]visited=new int[m][n];
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
                     q.add(new Triplet(i,j,0));
                     totalCount++;
                     rottenCount++;
-                    visited[i][j]=2;
                     
                 }else if(grid[i][j]==1){
                     totalCount++;
@@ -26,26 +24,23 @@ class Solution {
             int i=curr.row;
             int j=curr.col;
             time=curr.time;
-            if(i-1>=0 && grid[i-1][j]==1 && visited[i-1][j]==0){
-                // grid[i-1][j]=2;
+            if(i-1>=0 && grid[i-1][j]==1 ){
+                grid[i-1][j]=2;
                 q.add(new Triplet(i-1,j,time+1));
-                visited[i-1][j]=2;
+                // visited[i-1][j]=2;
                 rottenCount++;
-            }if(j-1>=0 && grid[i][j-1]==1 && visited[i][j-1]==0){
-                // grid[i][j-1]=2;
+            }if(j-1>=0 && grid[i][j-1]==1){
+                grid[i][j-1]=2;
                 q.add(new Triplet(i,j-1,time+1));
-                visited[i][j-1]=2;
                 rottenCount++;
             }
-            if(i+1<m && grid[i+1][j]==1 && visited[i+1][j]==0){
-                // grid[i+1][j]=2;
+            if(i+1<m && grid[i+1][j]==1 ){
+                grid[i+1][j]=2;
                 q.add(new Triplet(i+1,j,time+1));
-                visited[i+1][j]=2;
                 rottenCount++;
-            }if(j+1<n && grid[i][j+1]==1 && visited[i][j+1]==0){
-                // grid[i][j+1]=2;
+            }if(j+1<n && grid[i][j+1]==1 ){
+                grid[i][j+1]=2;
                 q.add(new Triplet(i,j+1,time+1));
-                visited[i][j+1]=2;
                 rottenCount++;
             }
 
