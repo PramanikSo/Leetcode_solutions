@@ -6,38 +6,27 @@ class Solution {
         if(initialColor==color){
             return image;
         }
-        Stack<Pair>stack=new Stack<>();
-        stack.push(new Pair(sr,sc));
+        Deque<int[]>stack=new ArrayDeque<>();
+        stack.push(new int[]{sr,sc});
         image[sr][sc]=color;
         while(!stack.isEmpty()){
-            Pair curr=stack.pop();
-            int row=curr.row;
-            int col=curr.col;
-            if(row-1>=0 && image[row-1][col]==initialColor){
-                image[row-1][col]=color;
-                stack.push(new Pair(row-1,col));
-            }if(row+1<m && image[row+1][col]==initialColor){
-                image[row+1][col]=color;
-                stack.push(new Pair(row+1,col));
-            }if(col-1>=0 && image[row][col-1]==initialColor){
-                image[row][col-1]=color;
-                stack.push(new Pair(row,col-1));
-            }if(col+1<n && image[row][col+1]==initialColor){
-                image[row][col+1]=color;
-                stack.push(new Pair(row,col+1));
+            int[] curr=stack.pop();
+            int row=curr[0];
+            int col=curr[1];
+            int [][]directions = {{-1,0},{1,0},{0,-1},{0,1}};
+
+            for(int []d: directions){
+                int newRow=row+d[0];
+                int newCol=col+d[1];
+                if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && image[newRow][newCol]==initialColor){
+                image[newRow][newCol]=color;
+                stack.push(new int[]{newRow,newCol});
             }
+
+        }
 
         }
         return image;
 
-    }
-}
-
-class Pair{
-    int row;
-    int col;
-    Pair(int row, int col){
-        this.row=row;
-        this.col=col;
     }
 }
