@@ -1,4 +1,4 @@
-/* Write your PL/SQL query statement below */
+# Write your MySQL query statement below
 -- SELECT DISTINCT(L1.NUM) AS ConsecutiveNums  
 -- FROM LOGS L1, LOGS L2, LOGS L3
 -- WHERE
@@ -17,3 +17,4 @@ FROM (
     FROM Logs
 ) t
 WHERE Num = prev1 AND Num = prev2;
+
