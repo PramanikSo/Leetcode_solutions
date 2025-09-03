@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sougat1/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sougat1/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 ## Matrix
 |  |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
