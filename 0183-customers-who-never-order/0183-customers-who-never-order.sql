@@ -1,0 +1,3 @@
+/* Write your PL/SQL query statement below */
+
+SELECT NAME AS CUSTOMERS FROM CUSTOMERS C WHERE C.ID NOT IN (SELECT DISTINCT(customerId ) FROM ORDERS)
