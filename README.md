@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [1284-four-divisors](https://github.com/Sougat1/Leetcode_solutions/tree/master/1284-four-divisors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sougat1/Leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sougat1/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Enumeration
 |  |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sougat1/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -288,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Sougat1/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
