@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1284-four-divisors](https://github.com/Sougat1/Leetcode_solutions/tree/master/1284-four-divisors) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sougat1/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 ## Sliding Window
 |  |
@@ -316,4 +318,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Sougat1/Leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Sougat1/Leetcode_solutions/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/Sougat1/Leetcode_solutions/tree/master/1179-game-play-analysis-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
