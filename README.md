@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sougat1/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sougat1/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sougat1/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sougat1/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
