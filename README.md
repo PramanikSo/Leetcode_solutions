@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [1284-four-divisors](https://github.com/Sougat1/Leetcode_solutions/tree/master/1284-four-divisors) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sougat1/Leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3533-snake-in-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3952-trionic-array-i](https://github.com/Sougat1/Leetcode_solutions/tree/master/3952-trionic-array-i) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sougat1/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sougat1/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
