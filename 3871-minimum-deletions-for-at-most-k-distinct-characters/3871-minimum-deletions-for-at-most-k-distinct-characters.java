@@ -1,21 +1,23 @@
 class Solution {
     public int minDeletion(String s, int k) {
-     Map<Character, Integer> map = new HashMap<>();
-        for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        int[] counter = new int[26];
+        int cnt = 0;
+        for (char c : s.toCharArray()) {
+            counter[c-'a']++;
+            if (counter[c-'a'] == 1) {
+                ++cnt;
+            }
         }
-        if (map.size() <= k) return 0;
-        List<Integer> list = new ArrayList<>(map.values());
-        Collections.sort(list);
-        int count = 0;
-        int dst = list.size();
+        Arrays.sort(counter);
         int i = 0;
-        while (dst > k) {
-            count += list.get(i);
-            i++;
-            dst--;
+        int ans = 0;
+        while (cnt > k) {
+            while (i < 26 && counter[i] == 0) {
+                ++i;
+            }
+            ans += counter[i++];
+            --cnt;
         }
-        return count;
-
+        return ans;
     }
 }
