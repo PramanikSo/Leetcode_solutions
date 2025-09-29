@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+/* Write your PL/SQL query statement below */
 SELECT
     name, population, area
 FROM
