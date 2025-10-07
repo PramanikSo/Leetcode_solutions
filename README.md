@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Sougat1/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sougat1/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/3533-snake-in-matrix) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sougat1/Leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
