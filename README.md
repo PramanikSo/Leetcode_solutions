@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Sougat1/Leetcode_solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sougat1/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sougat1/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
