@@ -6,7 +6,10 @@ class Solution {
 
         while(start<=end){
             int mid=start+(end-start)/2;
-            
+            if(nums[start]<=nums[end]){ // sorted array
+                min=Math.min(min,nums[start]);
+                break;
+            }
             //left part sorted
             if(nums[start]<=nums[mid]){
                 min=Math.min(nums[start],min);
