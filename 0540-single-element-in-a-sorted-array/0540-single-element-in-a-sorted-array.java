@@ -1,27 +1,20 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int n=nums.length;
-        if(n==1)    return nums[0];
-        if(nums[0]!=nums[1]){
-            return nums[0];
+         int low = 0, high = nums.length - 1;
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+
+            // Ensure mid is even (to compare with next element)
+            if (mid % 2 == 1)
+                mid--;
+
+            if (nums[mid] == nums[mid + 1])
+                low = mid + 2;   // single is on right
+            else
+                high = mid;      // single is on left or is mid
         }
-        if(nums[n-1]!=nums[n-2]){
-            return nums[n-1];
-        }
-        int start=1,end=n-2;
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(nums[mid]!=nums[mid-1] && nums[mid]!=nums[mid+1]){
-                return nums[mid];
-            }
-            // on left side of target
-            if((mid%2==1 && nums[mid]==nums[mid-1])
-                || (mid%2==0 && nums[mid]==nums[mid+1])){
-                    start=mid+1;
-            }else{ //on right side of the target
-                end= mid-1;
-            } 
-        }
-        return -1;
+
+        return nums[low];
     }
 }
