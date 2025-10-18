@@ -1,30 +1,21 @@
 class Solution {
     public int mySqrt(int x) {
        //using binary search
-       if (x < 2) return x;
+       int start=1;
+       int end=x;
 
-        // Initialize binary search range
-        int left = 1, right = x / 2, ans = 0;
-
-        // Perform binary search
-        while (left <= right) {
-            // Find middle point
-            long mid = left + (right - left) / 2;
-
-            // Check if mid*mid is less than or equal to x
-            if (mid * mid <= x) {
-                // Store mid as potential answer
-                ans = (int) mid;
-                // Move to right half
-                left = (int) mid + 1;
-            } else {
-                // Move to left half
-                right = (int) mid - 1;
-            }
-        }
-
-        // Return final answer
-        return ans;
+       while(start<=end){
+         int mid=start+(end-start)/2;
+         long prod = (long)mid*mid;
+         if(prod==x){
+            return mid;
+         }else if(prod<x){
+            start=mid+1;
+         }else{
+            end=mid-1;
+         }
+       }
+       return end;
     }
 }
 
