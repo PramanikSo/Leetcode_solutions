@@ -12,9 +12,8 @@ class Solution {
         while(start<=end){
             int mid=start+(end-start)/2;
 
-            int ind=0;
             int count=0,ans=0;
-            while(ind<n){
+            for(int ind=0;ind<n;ind++){
                 if(bloomDay[ind]<=mid){
                     count++;
                     if(count==k){
@@ -24,8 +23,11 @@ class Solution {
                 }else{
                     count=0;
                 }
-                ind++;
+                if(ans>=m){
+                    break;
+                }
             }
+
             if(ans<m){
                 start=mid+1;
             }else{
