@@ -1,11 +1,11 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int n=weights.length;
-        int sum=0;
+        int start=1,end=1;
         for(int i=0;i<n;i++){
-            sum+=weights[i];
+            start=Math.max(start,weights[i]);
+            end+=weights[i];
         }
-        int start=1,end=sum;
         while(start<=end){
             int mid=start+(end-start)/2;
             int total=0;
