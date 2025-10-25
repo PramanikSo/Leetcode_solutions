@@ -11,10 +11,6 @@ class Solution {
             int total=0;
             int dayCount=1;
             for(int i=0;i<n;i++){
-                if(weights[i]>mid){
-                    dayCount=days+1;
-                    break;
-                }
                 if(total+weights[i]>mid){
                     dayCount++;
                     total=weights[i];
