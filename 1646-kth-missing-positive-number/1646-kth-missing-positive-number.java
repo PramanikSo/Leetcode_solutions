@@ -15,13 +15,8 @@ class Solution {
          }
          i++;
        }
-       while(count<=k){
-         i++;
-        count++;
-        if(count==k){
-                return i;
-        }
-       
+       if(count<k){
+        return i+k-count;
        }
        return i;
     }
