@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
