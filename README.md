@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1284-four-divisors](https://github.com/Sougat1/Leetcode_solutions/tree/master/1284-four-divisors) |
 | [1642-water-bottles](https://github.com/Sougat1/Leetcode_solutions/tree/master/1642-water-bottles) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sougat1/Leetcode_solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/Sougat1/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sougat1/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Sougat1/Leetcode_solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
