@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Sougat1/Leetcode_solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Sougat1/Leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Sougat1/Leetcode_solutions/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/Sougat1/Leetcode_solutions/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/Sougat1/Leetcode_solutions/tree/master/1179-game-play-analysis-i) |
 ## Brainteaser
 |  |
