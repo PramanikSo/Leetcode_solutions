@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
 | [1284-four-divisors](https://github.com/Sougat1/Leetcode_solutions/tree/master/1284-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sougat1/Leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Sougat1/Leetcode_solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sougat1/Leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sougat1/Leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
