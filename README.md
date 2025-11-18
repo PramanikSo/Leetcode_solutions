@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Sougat1/Leetcode_solutions/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sougat1/Leetcode_solutions/tree/master/0792-binary-search) |
