@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sougat1/Leetcode_solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sougat1/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sougat1/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sougat1/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sougat1/Leetcode_solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/Sougat1/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sougat1/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sougat1/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sougat1/Leetcode_solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/3336-water-bottles-ii) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Sougat1/Leetcode_solutions/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Sougat1/Leetcode_solutions/tree/master/0740-delete-and-earn) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sougat1/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sougat1/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -333,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sougat1/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sougat1/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
