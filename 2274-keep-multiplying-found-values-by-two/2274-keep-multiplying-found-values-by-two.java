@@ -1,14 +1,13 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        Set<Integer>set=new HashSet<>();
-        for(int i=0;i<nums.length;i++){
-            set.add(nums[i]);
-        }
+       boolean count[] = new boolean[1001];
+       for(int i : nums){
+        count[i]=true;
+       }
 
-        while(set.contains(original)){
-            original=2*original;
-        }
-        
-        return original;
+       while(original<1001 && count[original]){
+        original <<= 1;
+       }
+       return original;
     }
 }
