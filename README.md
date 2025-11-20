@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sougat1/Leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sougat1/Leetcode_solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3952-trionic-array-i](https://github.com/Sougat1/Leetcode_solutions/tree/master/3952-trionic-array-i) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sougat1/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sougat1/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/4112-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -430,4 +433,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0611-valid-triangle-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4112-maximize-expression-of-three-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/4112-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
