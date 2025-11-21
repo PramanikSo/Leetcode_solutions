@@ -253,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Sougat1/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Sougat1/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
+| [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sougat1/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sougat1/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -434,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4112-maximize-expression-of-three-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/4112-maximize-expression-of-three-elements) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
