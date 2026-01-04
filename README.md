@@ -398,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Sougat1/Leetcode_solutions/tree/master/1073-number-of-enclaves) |
@@ -459,5 +460,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
