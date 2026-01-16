@@ -17,7 +17,8 @@ class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer>ans=new ArrayList<>();
         // postOrder(ans,root);
-        iterativePostOrderUsingTwoStack(ans,root);
+        // iterativePostOrderUsingTwoStack(ans,root);
+        iterativePostOrderUsingOneStack(ans,root);
         return ans;
     }
 
@@ -48,6 +49,29 @@ class Solution {
 
         while(!s2.isEmpty()){
             ans.add(s2.pop().val);
+        }
+    }
+
+    private void iterativePostOrderUsingOneStack(List<Integer>ans, TreeNode curr){
+        Stack<TreeNode>stack=new Stack<>();
+        TreeNode lastVisited = null;
+        while(!stack.isEmpty() || curr!=null){
+            
+            if(curr!=null){
+                stack.push(curr);
+                curr=curr.left;
+            }else{
+                
+                TreeNode top=stack.peek();
+                if(top.right!=null && top.right!=lastVisited){
+                    curr=top.right;
+                }else{
+                    ans.add(top.val);
+                    lastVisited=stack.pop();
+                }
+            }
+
+
         }
     }
 }
