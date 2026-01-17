@@ -55,23 +55,22 @@ class Solution {
     private void iterativePostOrderUsingOneStack(List<Integer>ans, TreeNode curr){
         Stack<TreeNode>stack=new Stack<>();
         TreeNode lastVisited = null;
-        while(!stack.isEmpty() || curr!=null){
-            
+        while(curr!=null || !stack.isEmpty()){
             if(curr!=null){
                 stack.push(curr);
                 curr=curr.left;
             }else{
-                
-                TreeNode top=stack.peek();
-                if(top.right!=null && top.right!=lastVisited){
-                    curr=top.right;
+                TreeNode peek=stack.peek();
+                if(peek.right!=null && peek.right!=lastVisited){
+                    curr=peek.right;
                 }else{
-                    ans.add(top.val);
+                    ans.add(peek.val);
                     lastVisited=stack.pop();
                 }
             }
 
-
+           
         }
+
     }
 }
