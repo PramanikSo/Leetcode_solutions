@@ -18,7 +18,7 @@ class Solution {
         
          List<List<Integer>>ans=new ArrayList<>();
         if(root==null) return ans;
-        Deque<TreeNode> q = new ArrayDeque<>();
+        Queue<TreeNode>q=new LinkedList<>();
         q.add(root);
         boolean leftToRight=true;
         while(!q.isEmpty()){
