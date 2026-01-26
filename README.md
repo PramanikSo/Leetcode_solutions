@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sougat1/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sougat1/Leetcode_solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0503-next-greater-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -501,4 +503,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
