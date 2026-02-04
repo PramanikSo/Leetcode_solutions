@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sougat1/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Sougat1/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Sougat1/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/Sougat1/Leetcode_solutions/tree/master/0740-delete-and-earn) |
 | [0792-binary-search](https://github.com/Sougat1/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sougat1/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sougat1/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Sougat1/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sougat1/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sougat1/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Sougat1/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sougat1/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
