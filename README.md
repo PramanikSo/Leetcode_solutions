@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sougat1/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sougat1/Leetcode_solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sougat1/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Sougat1/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sougat1/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sougat1/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sougat1/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sougat1/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sougat1/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
