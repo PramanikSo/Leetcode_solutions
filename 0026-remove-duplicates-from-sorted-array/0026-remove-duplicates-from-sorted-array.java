@@ -6,6 +6,6 @@ class Solution {
                 nums[++index]=nums[i];
             }
         }
-        return ++index;
+        return index+1;
     }
 }
