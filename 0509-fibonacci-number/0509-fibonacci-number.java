@@ -7,7 +7,18 @@ class Solution {
 
     int fibUsingDp(int n,int[]dp){
         if(n<=1)    return n;
-        if(dp[n]!=-1)   return dp[n];
-        return fibUsingDp(n-1,dp)+fibUsingDp(n-2,dp);
+        int first,second;
+        if(dp[n-1]!=-1){
+            first=dp[n-1];
+        }else{
+            first=fibUsingDp(n-1,dp);
+        }
+        if(dp[n-2]!=-1){
+            second=dp[n-2];
+        }else{
+            second=fibUsingDp(n-2,dp);
+        }
+
+        return first+second;
     }
 }
