@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Sougat1/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Sougat1/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
