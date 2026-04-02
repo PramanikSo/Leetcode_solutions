@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/Sougat1/Leetcode_solutions/tree/master/0740-delete-and-earn) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sougat1/Leetcode_solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sougat1/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sougat1/Leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sougat1/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
