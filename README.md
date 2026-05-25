@@ -576,5 +576,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Sougat1/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
