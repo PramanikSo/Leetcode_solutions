@@ -8,9 +8,8 @@ class Solution {
              count=0;
            } else{
             count++;
-            max=Math.max(count,max);
            }
         }
-        return max;
+        return max>count? max:count;
     }
 }
