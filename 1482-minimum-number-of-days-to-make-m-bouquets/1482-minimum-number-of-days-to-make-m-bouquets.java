@@ -7,16 +7,16 @@ class Solution {
         }
 
         int min=1,max=1;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){ //O(n)
             min=Math.min(min,bloomDay[i]);
             max=Math.max(max,bloomDay[i]);
         }
         
         int start=min,end=max;
-        while(start<=end){
+        while(start<=end){ //O(log(max-min))
             int mid=start+(end-start)/2;
             int count=0,ans=0;
-            for(int i=0;i<n;i++){
+            for(int i=0;i<n;i++){ //O(n)
                 if(bloomDay[i]<=mid){
                     count++;
 
@@ -39,3 +39,7 @@ class Solution {
         return start>max?-1:start;
     }
 }
+
+//T(C): O(nlog(max-min))
+// max: Maximum element in the array
+//min: Minimum element in the array
