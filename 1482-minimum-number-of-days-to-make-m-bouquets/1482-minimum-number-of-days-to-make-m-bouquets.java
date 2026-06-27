@@ -1,6 +1,11 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         int n=bloomDay.length;
+
+        if(m*k>n){
+            return -1;
+        }
+
         int min=1,max=1;
         for(int i=0;i<n;i++){
             min=Math.min(min,bloomDay[i]);
