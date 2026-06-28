@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0997-find-the-town-judge](https://github.com/Sougat1/Leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sougat1/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sougat1/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sougat1/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/Sougat1/Leetcode_solutions/tree/master/1036-rotting-oranges) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Sougat1/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Sougat1/Leetcode_solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sougat1/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sougat1/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sougat1/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sougat1/Leetcode_solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sougat1/Leetcode_solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
