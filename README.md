@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sougat1/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sougat1/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sougat1/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Sougat1/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Sougat1/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Sougat1/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sougat1/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sougat1/Leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Sougat1/Leetcode_solutions/tree/master/0455-assign-cookies) |
