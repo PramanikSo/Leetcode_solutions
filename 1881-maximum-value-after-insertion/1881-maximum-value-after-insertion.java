@@ -11,7 +11,7 @@ class Solution {
         String ans="-";
         for(int i=1;i<n.length();i++){
             char ch=n.charAt(i);
-            if(Integer.parseInt(ch+"")>x){
+            if(ch-'0'>x){
                 ans+=x;
                 ans+=n.substring(i);
                 return ans;
@@ -26,7 +26,7 @@ class Solution {
         String ans="";
         for(int i=0;i<n.length();i++){
             char ch=n.charAt(i);
-            if(Integer.parseInt(ch+"")<x){
+            if(ch-'0'<x){
                 ans+=x;
                 ans+=n.substring(i);
                 return ans;
