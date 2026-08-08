@@ -1,16 +1,15 @@
 class Solution {
     public boolean check(int[] nums) {
-        boolean ans=true;
-        int count=0;
+        int rotateCount=0;
         int n=nums.length;
-        for(int i=0;i<nums.length-1;i++){
+        boolean ans=false;
+        for(int i=0;i<n-1;i++){
             if(nums[i]>nums[i+1]){
-                ans=false;
-                count++;
+                rotateCount++;
             }
         }
-        if(!ans && count==1 && nums[n-1]<=nums[0]){
-            ans = true;
+        if(rotateCount==0 || rotateCount==1 && nums[n-1]<=nums[0]){
+            ans=true;
         }
         return ans;
     }
