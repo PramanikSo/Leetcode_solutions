@@ -4,8 +4,23 @@ class Solution {
     //     Arrays.fill(dp,-1);
     //    return climbStairsDP(n,dp);
 
-            return iterativeDP(n);
+            // return iterativeDP(n);
+
+            return optimisedFun(n);
     }
+
+    int optimisedFun(int n){
+         if(n<=2)    return n;
+         int prev=2;
+         int secondPrev=1;
+         for(int i=3;i<=n;i++){
+            int curr=prev+secondPrev;
+            secondPrev=prev;
+            prev=curr;
+         }
+         return prev;
+    }
+
     int iterativeDP(int n){
          if(n<=2)    return n;
         int []dp=new int[n+1];
