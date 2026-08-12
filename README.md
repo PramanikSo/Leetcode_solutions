@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Sougat1/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sougat1/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sougat1/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sougat1/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sougat1/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Sougat1/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Sougat1/Leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sougat1/Leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sougat1/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Sougat1/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sougat1/Leetcode_solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sougat1/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sougat1/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sougat1/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Graph Theory
 |  |
