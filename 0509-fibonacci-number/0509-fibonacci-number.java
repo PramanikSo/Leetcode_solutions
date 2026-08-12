@@ -7,19 +7,19 @@ class Solution {
 
     int fibDP(int n, int []dp){
         // base case
-        if(n==0 || n==1)    return dp[n]=n;
+        if(n<=1)    return dp[n]=n;
 
         int prev;
         if(dp[n-1]!=-1){
             prev=dp[n-1];
         }else{
-            prev=fib(n-1);
+            prev=fibDP(n-1,dp);
         }
         int secondPrev;
         if(dp[n-2]!=-1){
             secondPrev=dp[n-2];
         }else{
-            secondPrev=fib(n-2);
+            secondPrev=fibDP(n-2,dp);
         }
         return dp[n]=prev+secondPrev;
     }
