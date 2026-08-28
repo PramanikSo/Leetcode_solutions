@@ -1,6 +1,6 @@
 class Solution {
     public String removeKdigits(String num, int k) {
-        Stack<Character>stack=new Stack<>();
+        Deque<Character>stack=new ArrayDeque<>();
         int n=num.length();
         for(int i=0;i<n;i++){
             char ch=num.charAt(i);
