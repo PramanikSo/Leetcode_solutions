@@ -631,4 +631,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sougat1/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sougat1/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
