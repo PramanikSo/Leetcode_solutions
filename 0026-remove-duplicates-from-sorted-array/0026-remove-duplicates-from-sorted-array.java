@@ -12,3 +12,5 @@ class Solution {
         return index+1;
     }
 }
+// T(C): O(n)
+// S(C): O(1)
